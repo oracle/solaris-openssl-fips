@@ -54,7 +54,7 @@ under the 'fipscanister-dev' component dir:
 ## Building the Oracle OpenSSL FIPS Object Module (FOM)
 
 The detail description of the build instruction can be found in the Oracle
-FOM Security Policy.
+FOM Security Policy[2].
 
 That compiled module is NOT FIPS 140-2 validated or suitable for use in
 satisfying a requirement for the use of FIPS 140-2 validated cryptography
@@ -63,3 +63,7 @@ UNLESS the requirements of the Security Policy are followed exactly.
 ## Reference
 
 [1] https://www.openssl.org/docs/fips/SecurityPolicy-2.0.13.pdf
+
+[2] https://github.com/oracle/solaris-openssl-fips/releases/download/v1.0/Oracle.OpenSSL.FOM.Security.Policy.2018_06_20.pdf
+
+
