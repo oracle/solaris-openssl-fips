@@ -62,6 +62,6 @@ UNLESS the requirements of the Security Policy are followed exactly.
 
 ## Reference
 
-[1] https://github.com/oracle/solaris-openssl-fips/releases/download/v1.0/Oracle.OpenSSL.FOM.Security.Policy.Cert.3335.pdf
+[1] https://csrc.nist.gov/CSRC/media/projects/cryptographic-module-validation-program/documents/security-policies/140sp3335.pdf
 
 
