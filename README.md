@@ -42,6 +42,7 @@ The main consumer of the Oracle OpenSSL FIPS Object Module (FOM) is
     - Oracle Solaris server systems
     - Oracle ZFSSA
     - Oracle ILOM
+    - Oracle Linux 7
 
 The Oracle OpenSSL FOM is developed in the Oracle Userland project:
 
